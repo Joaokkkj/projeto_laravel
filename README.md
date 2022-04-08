@@ -1,2 +1,2 @@
 # projeto_laravel
-projeto realizado nas aulas do lando haha
+projeto realizado nas aulas do lando hahaha
