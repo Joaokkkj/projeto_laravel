@@ -14,13 +14,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-//  Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-//     return $request->user();
-// });
+  Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
+    return $request->user();
+ });
 
 //get - consultas
 //post - cadatros
 //put - atualização (alteração)
 //delete - exclusao de dados
 
-route::get('/pedidos', '');
+// route::get('/pedidos', '');
